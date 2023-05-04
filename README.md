@@ -1,16 +1,16 @@
 # Đồ án khoa học dữ liệu
 
 <pre>
-MSSV: 1712358   Họ và tên: Nguyễn Minh Đức  
-MSSV: 1712379   Họ và tên: Đặng Thành Duy
+MSSV: 123456   Họ và tên: Đặng Minh Tường
+MSSV: 123456   Họ và tên: Đặng Minh Tường
 </pre>
 
 Phân công công việc:
 
 |Thành viên|Công việc|
 |----------|---------|
-|Nguyễn Minh Đức|Phân tích dữ liệu, build model DNN, train model logistic, bình luận, dự đoán|
-|Đặng Thành Duy|Thu thập dữ liệu API, crawl dữ liệu qua HTML, tiền xử lý và xử lý dữ liệu,  train model linear, train model logistic, dự đoán|
+|Đặng Minh Tường|Phân tích dữ liệu, build model DNN, train model logistic, bình luận, dự đoán|
+|Đặng Minh Tường|Thu thập dữ liệu API, crawl dữ liệu qua HTML, tiền xử lý và xử lý dữ liệu,  train model linear, train model logistic, dự đoán|
 
 
 # Chủ đề: Dự báo thời tiết
